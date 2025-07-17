@@ -714,12 +714,12 @@ body {
 }
 
 .nav__link {
-  color: var(--color-text);
+  color: rgb(36, 155, 155);
   font-weight: var(--font-weight-medium);
   text-decoration: none;
   transition: color var(--duration-fast) var(--ease-standard);
   position: relative;
-  padding: var(--space-8) 0;
+  padding: var(--space-10) 0;
 }
 
 .nav__link:hover {
